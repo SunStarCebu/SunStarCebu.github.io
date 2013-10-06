@@ -1,4 +1,4 @@
-SunStarCebu.github.io
+Sun Star Cebu page at github.io
 =====================
 
-For Github page
+This is for the sunstarcebu.github.io page.
